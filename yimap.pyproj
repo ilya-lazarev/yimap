@@ -12,7 +12,7 @@
     <Name>yimap</Name>
     <RootNamespace>yimap</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>-H imap.yandex.com -u lazil -w s3aShell</CommandLineArguments>
+    <CommandLineArguments>  imap.mail.yahoo.com {email login} login {password}</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
     <IsWindowsApplication>False</IsWindowsApplication>
     <InterpreterId>Global|PythonCore|3.7</InterpreterId>
